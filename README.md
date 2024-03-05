@@ -37,6 +37,6 @@ This project focuses on Retail Employee Data Management and Analysis, providing 
 - **01_CreateDatabase.sql:** Creates the database "AcmeRetailStores."
 - **02_CreateTables.sql:** Defines tables for Employees, Jobs, and Stores.
 - **03_PopulateTables.sql:** Inserts sample data into the created tables.
-- **04_Queries.sql:** Contains SQL queries for retrieving and analyzing retail employee data.
-- **05_DataManipulation.sql:** Demonstrates altering tables, updating records, and deleting data.
-- **06_Cleanup.sql:** Includes statements for cleaning up the database (dropping tables).
+- **04_Queries_DataManipulation.sql:** Contains SQL queries for retrieving and analyzing retail employee data.
+-  Demonstrates altering tables, updating records, and deleting data.
+- Includes statements for cleaning up the database (dropping tables).
