@@ -1,6 +1,6 @@
 # Retail Employee Data Management and Analysis
 
-![Project Image](retail.jpg)
+![Project Image](retail.png)
 ## Overview
 
 This project focuses on Retail Employee Data Management and Analysis, providing a comprehensive solution for storing, managing, and analyzing employee-related information within a retail setting. The system is designed to streamline HR processes and facilitate data-driven decision-making for retail operations.
